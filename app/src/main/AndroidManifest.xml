@@ -10,7 +10,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.PR23">
+        android:theme="@style/Theme.pr23_kokoshnikov">
         <activity
             android:name=".DeliverySuccessActivity"
             android:exported="false" />

@@ -1,4 +1,4 @@
-package com.example.pr23;
+package com.example.pr23_kokoshnikov;
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 public class ProfileActivity extends AppCompatActivity {

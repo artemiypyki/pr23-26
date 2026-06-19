@@ -1,4 +1,4 @@
-package com.example.pr23;
+package com.example.pr23_kokoshnikov;
 
 import android.animation.ObjectAnimator;
 import android.os.Bundle;
